@@ -1,0 +1,1 @@
+1. UCR_TS_Archive_2015: https://www.cs.ucr.edu/~eamonn/time_series_data/
