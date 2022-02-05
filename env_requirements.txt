@@ -1,0 +1,88 @@
+absl-py @ file:///opt/conda/conda-bld/absl-py_1639803114343/work
+aiohttp @ file:///C:/ci/aiohttp_1632749616620/work
+astor==0.8.1
+async-timeout==3.0.1
+attrs @ file:///opt/conda/conda-bld/attrs_1642510447205/work
+blinker==1.4
+brotlipy==0.7.0
+cachetools @ file:///tmp/build/80754af9/cachetools_1619597386817/work
+certifi==2021.5.30
+cffi @ file:///C:/ci/cffi_1625831763871/work
+chardet @ file:///C:/ci/chardet_1607706912142/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click==8.0.3
+cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1632508026186/work
+coverage @ file:///C:/ci/coverage_1614614921360/work
+cryptography @ file:///C:/ci/cryptography_1616769514516/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+Cython @ file:///C:/ci/cython_1626257069493/work
+cytoolz==0.11.0
+dask @ file:///tmp/build/80754af9/dask-core_1615055117017/work
+decorator @ file:///tmp/build/80754af9/decorator_1632776554403/work
+gast==0.2.2
+google-auth @ file:///tmp/build/80754af9/google-auth_1626320605116/work
+google-auth-oauthlib @ file:///tmp/build/80754af9/google-auth-oauthlib_1617120569401/work
+google-pasta @ file:///Users/ktietz/demo/mc3/conda-bld/google-pasta_1630577991354/work
+grpcio @ file:///C:/ci/grpcio_1614884461394/work
+h5py==2.10.0
+idna @ file:///tmp/build/80754af9/idna_1637925883363/work
+idna-ssl @ file:///C:/ci/idna_ssl_1611752657819/work
+imagecodecs @ file:///C:/ci/imagecodecs_1603253467096/work
+imageio @ file:///tmp/build/80754af9/imageio_1617700267927/work
+importlib-metadata @ file:///C:/ci/importlib-metadata_1631916885413/work
+joblib @ file:///tmp/build/80754af9/joblib_1613502643832/work
+Keras==2.2.4
+Keras-Applications @ file:///tmp/build/80754af9/keras-applications_1594366238411/work
+Keras-Preprocessing @ file:///tmp/build/80754af9/keras-preprocessing_1612283640596/work
+kiwisolver @ file:///C:/ci/kiwisolver_1612282446297/work
+Markdown @ file:///C:/ci/markdown_1614364003005/work
+matplotlib @ file:///C:/ci/matplotlib-suite_1613408055530/work
+mkl-fft==1.3.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+multidict @ file:///C:/ci/multidict_1607362067746/work
+networkx @ file:///tmp/build/80754af9/networkx_1598376031484/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1603480701039/work
+oauthlib @ file:///tmp/build/80754af9/oauthlib_1623060228408/work
+olefile==0.46
+opt-einsum @ file:///tmp/build/80754af9/opt_einsum_1621500238896/work
+pandas @ file:///C:/ci/pandas_1608056614942/work
+Pillow @ file:///C:/ci/pillow_1625663293114/work
+protobuf==3.17.2
+pyasn1 @ file:///Users/ktietz/demo/mc3/conda-bld/pyasn1_1629708007385/work
+pyasn1-modules==0.2.8
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+PyJWT @ file:///C:/ci/pyjwt_1619651879817/work
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1635333100036/work
+pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
+pyreadline==2.1
+PySocks @ file:///C:/ci/pysocks_1605305839978/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2021.3
+PyWavelets @ file:///C:/ci/pywavelets_1601658410782/work
+PyYAML==5.4.1
+requests @ file:///opt/conda/conda-bld/requests_1641824580448/work
+requests-oauthlib==1.3.0
+rsa @ file:///tmp/build/80754af9/rsa_1614366226499/work
+scikit-image==0.17.2
+scikit-learn @ file:///C:/ci/scikit-learn_1622739439730/work
+scipy @ file:///C:/ci/scipy_1597675683670/work
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+tensorboard==1.12.2
+tensorboard-plugin-wit==1.6.0
+tensorflow==1.12.0
+tensorflow-estimator @ file:///home/builder/adipietro/tf/tensorflow-estimator_1630508970172/work/tensorflow_estimator-2.6.0-py2.py3-none-any.whl
+termcolor==1.1.0
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+tifffile @ file:///tmp/build/80754af9/tifffile_1616096039718/work
+toolz @ file:///tmp/build/80754af9/toolz_1636545406491/work
+tornado @ file:///C:/ci/tornado_1606942379977/work
+tqdm @ file:///tmp/build/80754af9/tqdm_1635330843403/work
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1631814937681/work
+urllib3==1.26.7
+Werkzeug==0.16.1
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306197271/work
+wincertstore==0.2
+wrapt==1.12.1
+yarl @ file:///C:/ci/yarl_1606921989557/work
+zipp @ file:///tmp/build/80754af9/zipp_1633618647012/work
