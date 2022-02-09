@@ -1,8 +1,8 @@
-Type of activity to start：{'R2_wake', 'R2_sleep', 'R1_wake', 'Leave_home', 'Bed_to_toilet', 'Lunch', 'Night_wandering', 'R2_take_medicine', 'R1_work_in_office', 'R1_sleep', 'Dinner', 'Breakfast', 'Laundry'}
+Type of activity to start：{'R1_work_in_office', 'Lunch', 'R2_take_medicine', 'Laundry', 'Bed_to_toilet', 'R1_wake', 'Leave_home', 'R2_wake', 'R2_sleep', 'Night_wandering', 'Dinner', 'R1_sleep', 'Breakfast'}
 Start activity type statistics：
 Total：600 
 Counter({'Leave_home': 69, 'Night_wandering': 67, 'R1_wake': 53, 'R2_wake': 52, 'R2_sleep': 52, 'R1_sleep': 50, 'Breakfast': 48, 'R1_work_in_office': 46, 'R2_take_medicine': 44, 'Dinner': 42, 'Lunch': 37, 'Bed_to_toilet': 30, 'Laundry': 10})
-End activity type：{'R2_wake', 'R2_sleep', 'R1_wake', 'Leave_home', 'Bed_to_toilet', 'Lunch', 'Night_wandering', 'R2_take_medicine', 'R1_work_in_office', 'R1_sleep', 'Dinner', 'Breakfast', 'Laundry'}
+End activity type：{'R1_work_in_office', 'Lunch', 'R2_take_medicine', 'Laundry', 'Bed_to_toilet', 'R1_wake', 'Leave_home', 'R2_wake', 'R2_sleep', 'Night_wandering', 'Dinner', 'R1_sleep', 'Breakfast'}
 End activity type statistics：
 Total：600 
 Counter({'Leave_home': 69, 'Night_wandering': 67, 'R1_wake': 53, 'R2_wake': 52, 'R2_sleep': 52, 'R1_sleep': 50, 'Breakfast': 48, 'R1_work_in_office': 46, 'R2_take_medicine': 44, 'Dinner': 42, 'Lunch': 37, 'Bed_to_toilet': 30, 'Laundry': 10})

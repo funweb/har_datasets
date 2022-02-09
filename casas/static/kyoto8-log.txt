@@ -1,8 +1,8 @@
-Type of activity to start：{'R2_sleep', 'R1_shower', 'Cooking', 'Grooming', 'R1_work', 'R1_sleep', 'R2_work', 'R2_shower', 'R1_wakeup', 'Bed_toilet_transition', 'R2_wakeup', 'Cleaning'}
+Type of activity to start：{'Cleaning', 'R1_shower', 'R2_shower', 'Cooking', 'Bed_toilet_transition', 'R2_work', 'R1_wakeup', 'R2_sleep', 'R2_wakeup', 'Grooming', 'R1_sleep', 'R1_work'}
 Start activity type statistics：
 Total：1292 
 Counter({'R1_work': 444, 'R2_work': 352, 'Cooking': 199, 'R1_sleep': 52, 'R1_wakeup': 48, 'Grooming': 47, 'R1_shower': 41, 'Cleaning': 28, 'R2_shower': 28, 'R2_sleep': 26, 'R2_wakeup': 25, 'Bed_toilet_transition': 2})
-End activity type：{'R2_sleep', 'R1_shower', 'Cooking', 'Grooming', 'R1_work', 'R1_sleep', 'R2_work', 'R2_shower', 'R1_wakeup', 'Bed_toilet_transition', 'R2_wakeup', 'Cleaning'}
+End activity type：{'Cleaning', 'R1_shower', 'R2_shower', 'Cooking', 'Bed_toilet_transition', 'R2_work', 'R1_wakeup', 'R2_sleep', 'R2_wakeup', 'Grooming', 'R1_sleep', 'R1_work'}
 End activity type statistics：
 Total：1292 
 Counter({'R1_work': 444, 'R2_work': 352, 'Cooking': 199, 'R1_sleep': 52, 'R1_wakeup': 48, 'Grooming': 47, 'R1_shower': 41, 'Cleaning': 28, 'R2_shower': 28, 'R2_sleep': 26, 'R2_wakeup': 25, 'Bed_toilet_transition': 2})

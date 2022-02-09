@@ -1,8 +1,8 @@
-Type of activity to start：{'R1_Personal_Hygiene', 'Watch_TV', 'R2_Bed_to_Toilet', 'R1_Bed_to_Toilet', 'R2_Work', 'Study', 'R2_Sleep', 'Wash_Bathtub', 'Clean', 'R1_Sleep', 'R2_Personal_Hygiene', 'Meal_Preparation', 'R1_Work'}
+Type of activity to start：{'R1_Work', 'Wash_Bathtub', 'R1_Sleep', 'R1_Personal_Hygiene', 'Watch_TV', 'R2_Work', 'Study', 'Clean', 'R2_Personal_Hygiene', 'Meal_Preparation', 'R2_Sleep', 'R1_Bed_to_Toilet', 'R2_Bed_to_Toilet'}
 Start activity type statistics：
 Total：491 
 Counter({'Meal_Preparation': 118, 'R1_Work': 59, 'R1_Personal_Hygiene': 45, 'R2_Work': 44, 'R2_Bed_to_Toilet': 39, 'R2_Personal_Hygiene': 39, 'R1_Sleep': 35, 'R2_Sleep': 35, 'R1_Bed_to_Toilet': 34, 'Watch_TV': 31, 'Study': 9, 'Clean': 2, 'Wash_Bathtub': 1})
-End activity type：{'R1_Personal_Hygiene', 'Watch_TV', 'R2_Bed_to_Toilet', 'R1_Bed_to_Toilet', 'R2_Work', 'Study', 'R2_Sleep', 'Wash_Bathtub', 'Clean', 'R1_Sleep', 'R2_Personal_Hygiene', 'Meal_Preparation', 'R1_Work'}
+End activity type：{'R1_Work', 'Wash_Bathtub', 'R1_Sleep', 'R1_Personal_Hygiene', 'Watch_TV', 'R2_Work', 'Study', 'Clean', 'R2_Personal_Hygiene', 'Meal_Preparation', 'R2_Sleep', 'R1_Bed_to_Toilet', 'R2_Bed_to_Toilet'}
 End activity type statistics：
 Total：493 
 Counter({'Meal_Preparation': 119, 'R1_Work': 60, 'R1_Personal_Hygiene': 45, 'R2_Work': 44, 'R2_Bed_to_Toilet': 39, 'R2_Personal_Hygiene': 39, 'R1_Sleep': 35, 'R2_Sleep': 35, 'R1_Bed_to_Toilet': 34, 'Watch_TV': 31, 'Study': 9, 'Clean': 2, 'Wash_Bathtub': 1})

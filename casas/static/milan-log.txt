@@ -1,8 +1,8 @@
-Type of activity to start：{'Kitchen_Activity', 'Watch_TV', 'Guest_Bathroom', 'Meditate', 'Master_Bedroom_Activity', 'Desk_Activity', 'Dining_Rm_Activity', 'Sleep', 'Chores', 'Read', 'Eve_Meds', 'Bed_to_Toilet', 'Morning_Meds', 'Leave_Home', 'Master_Bathroom'}
+Type of activity to start：{'Desk_Activity', 'Sleep', 'Leave_Home', 'Guest_Bathroom', 'Watch_TV', 'Chores', 'Morning_Meds', 'Read', 'Master_Bathroom', 'Master_Bedroom_Activity', 'Meditate', 'Bed_to_Toilet', 'Dining_Rm_Activity', 'Kitchen_Activity', 'Eve_Meds'}
 Start activity type statistics：
 Total：2310 
 Counter({'Kitchen_Activity': 554, 'Guest_Bathroom': 330, 'Read': 314, 'Master_Bathroom': 306, 'Leave_Home': 214, 'Master_Bedroom_Activity': 117, 'Watch_TV': 114, 'Sleep': 96, 'Bed_to_Toilet': 89, 'Desk_Activity': 54, 'Morning_Meds': 41, 'Chores': 23, 'Dining_Rm_Activity': 22, 'Eve_Meds': 19, 'Meditate': 17})
-End activity type：{'Kitchen_Activity', 'Watch_TV', 'Guest_Bathroom', 'Meditate', 'Master_Bedroom_Activity', 'Desk_Activity', 'Dining_Rm_Activity', 'Sleep', 'Chores', 'Read', 'Eve_Meds', 'Bed_to_Toilet', 'Morning_Meds', 'Leave_Home', 'Master_Bathroom'}
+End activity type：{'Desk_Activity', 'Sleep', 'Leave_Home', 'Guest_Bathroom', 'Watch_TV', 'Chores', 'Morning_Meds', 'Read', 'Master_Bathroom', 'Master_Bedroom_Activity', 'Meditate', 'Bed_to_Toilet', 'Dining_Rm_Activity', 'Kitchen_Activity', 'Eve_Meds'}
 End activity type statistics：
 Total：2310 
 Counter({'Kitchen_Activity': 554, 'Guest_Bathroom': 330, 'Read': 314, 'Master_Bathroom': 306, 'Leave_Home': 214, 'Master_Bedroom_Activity': 117, 'Watch_TV': 114, 'Sleep': 96, 'Bed_to_Toilet': 89, 'Desk_Activity': 54, 'Morning_Meds': 41, 'Chores': 23, 'Dining_Rm_Activity': 22, 'Eve_Meds': 19, 'Meditate': 17})
